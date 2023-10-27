@@ -114,7 +114,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/)             | 0.5 |
  | Erigon | [Tullio Canepa](https://github.com/canepat/)                         | 1 |
  | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/)                      | 1 |
- | Hyperledger Besu | [Ameziane Hamlat] (https://github.com/ahamlat/)                      | 1 |
+ | Hyperledger Besu | [Ameziane Hamlat](https://github.com/ahamlat/)                       | 1 |
  | Hyperledger Besu | [Daniel Lehrner](https://github.com/daniellehrner/)                  | 1 |
  | Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/)                          | 1 |
  | Hyperledger Besu | [Fabio di Fabio](https://github.com/fab-10/)                         | 1 |
