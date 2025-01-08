@@ -98,7 +98,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Shoham Chakraborty](https://github.com/shohamc1/) | 0.5 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ashohamc1) |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Acanepat) |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | | [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol)|
-| [Ameziane](https://github.com/ahamlat/) | 0.5 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aahamlat) |
+| [Ameziane](https://github.com/ahamlat/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aahamlat) |
 | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Adaniellehrner) |
 | [Danno Ferrin](https://github.com/shemnon/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
 | [Fabio di Fabio](https://github.com/fab-10/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afab-10) |
@@ -289,24 +289,24 @@ Members are expected to participate in curation. Consider these examples:
 We use the term "self-curation" to describe how the membership selects its own beneficiary set. This is an important distinction between Protocol Guild and other public goods funding mechanisms. While curatorial bodies external to the beneficiary set are appropriate in some contexts, self-curation is well suited here for a few reasons:
 
 1. Local actors have the most domain knowledge
-    - Protocol Guild stakes its claim to legitimacy on the accuracy of its membership. This emerges from the perspectives and daily interactions of people that are already embedded: the core contributors themselves.
-    - Any external curating council would be outside of core protocol stewardship. To approximate the local knowledge that core contributors naturally already have (e.g. who is doing what work, at what level of contribution, with what team), an external council would have to be embedded in the same work.
+   - Protocol Guild stakes its claim to legitimacy on the accuracy of its membership. This emerges from the perspectives and daily interactions of people that are already embedded: the core contributors themselves.
+   - Any external curating council would be outside of core protocol stewardship. To approximate the local knowledge that core contributors naturally already have (e.g. who is doing what work, at what level of contribution, with what team), an external council would have to be embedded in the same work.
 
 2. Fewer classes of actors are easier to reason about operationally
-    - Good mechanisms are simple. They should have the minimum sufficient operational surface area (or at least start there and layer in complexity). If something can be done with less, it should be.
-    - External councils shift the operational onus to participants with a different incentive-set than beneficiaries. In the worst case, their goal is to maintain their position as curators - not to accurately curate the membership.
-    - Additional governance processes would need to be set up for the membership to nominate and remove council members - more time, overhead, and bandwidth taken from the actual work of core protocol stewardship.
+   - Good mechanisms are simple. They should have the minimum sufficient operational surface area (or at least start there and layer in complexity). If something can be done with less, it should be.
+   - External councils shift the operational onus to participants with a different incentive-set than beneficiaries. In the worst case, their goal is to maintain their position as curators - not to accurately curate the membership.
+   - Additional governance processes would need to be set up for the membership to nominate and remove council members - more time, overhead, and bandwidth taken from the actual work of core protocol stewardship.
 
 3. Mechanisms close to the core protocol should be robust
-    - The Ethereum core protocol is expected to operate in an adversarial environment. In the same way, protocol funding mechanisms should be held to similarly high institutional standards: resistant to failure.
-    - Inviting (read: obligating) all members to participate in curation sidesteps any dependency on a narrow class of mechanism operators like an external curation council.
+   - The Ethereum core protocol is expected to operate in an adversarial environment. In the same way, protocol funding mechanisms should be held to similarly high institutional standards: resistant to failure.
+   - Inviting (read: obligating) all members to participate in curation sidesteps any dependency on a narrow class of mechanism operators like an external curation council.
 
 4. Incentive compatibility
 
-    - It is incentive compatible that curators (Guild members) are drawn from the beneficiaries (Guild members).
-        - Adding beneficiaries removes future vested value from existing members. They will more carefully consider potential members and their contributions. An external council would not feel this constraint so directly.
-    - The mechanism must accept all legitimate contributors
-        - This prevents the set from ossifying or getting captured. Potential members which fit established guidelines need to be added to maintain credible neutrality to participants and sponsors. If donors think that the set is not curated well enough, they will not feel incentivized to contribute.
+   - It is incentive compatible that curators (Guild members) are drawn from the beneficiaries (Guild members).
+      - Adding beneficiaries removes future vested value from existing members. They will more carefully consider potential members and their contributions. An external council would not feel this constraint so directly.
+   - The mechanism must accept all legitimate contributors
+      - This prevents the set from ossifying or getting captured. Potential members which fit established guidelines need to be added to maintain credible neutrality to participants and sponsors. If donors think that the set is not curated well enough, they will not feel incentivized to contribute.
 
 ### Adding a Member
 
